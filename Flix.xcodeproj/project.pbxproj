@@ -16,6 +16,7 @@
 		5B9DF74327A8E19000D55DF1 /* FlixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9DF74227A8E19000D55DF1 /* FlixTests.swift */; };
 		5B9DF74D27A8E19000D55DF1 /* FlixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9DF74C27A8E19000D55DF1 /* FlixUITests.swift */; };
 		5B9DF74F27A8E19000D55DF1 /* FlixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9DF74E27A8E19000D55DF1 /* FlixUITestsLaunchTests.swift */; };
+		5B9DF75C27AB018500D55DF1 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9DF75B27AB018500D55DF1 /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5B9DF74827A8E19000D55DF1 /* FlixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B9DF74C27A8E19000D55DF1 /* FlixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITests.swift; sourceTree = "<group>"; };
 		5B9DF74E27A8E19000D55DF1 /* FlixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5B9DF75B27AB018500D55DF1 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		5B9DF72A27A8E18C00D55DF1 /* Flix */ = {
 			isa = PBXGroup;
 			children = (
+				5B9DF75B27AB018500D55DF1 /* MovieCell.swift */,
 				5B9DF72B27A8E18C00D55DF1 /* AppDelegate.swift */,
 				5B9DF72D27A8E18C00D55DF1 /* SceneDelegate.swift */,
 				5B9DF72F27A8E18C00D55DF1 /* ViewController.swift */,
@@ -261,6 +264,7 @@
 				5B9DF73027A8E18C00D55DF1 /* ViewController.swift in Sources */,
 				5B9DF72C27A8E18C00D55DF1 /* AppDelegate.swift in Sources */,
 				5B9DF72E27A8E18C00D55DF1 /* SceneDelegate.swift in Sources */,
+				5B9DF75C27AB018500D55DF1 /* MovieCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
